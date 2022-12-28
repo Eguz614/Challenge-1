@@ -7,7 +7,7 @@ The Refraction of this site was done to debug existing issues and implement feat
 
 ## How to locate
 
- Enter in the searchbar the following URL : https://eguz614.github.io/Challenge-1/  would redirect you to the opening page of the website and from there a customer can navigate the different services offered by Horiseon Inc.
+ Enter in the searchbar the following URL : https://eguz614.github.io/Code-Refracting-Services/  would redirect you to the opening page of the website and from there a customer can navigate the different services offered by Horiseon Inc.
 
 ## Operation
 
