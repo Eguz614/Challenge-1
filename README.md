@@ -13,7 +13,7 @@ The Refraction of this site was done to debug existing issues and implement feat
 
 A client requested feature for this site was to include  hyperlink redirects to the respective section within the page. So by changing the source location of the links on the navbar to designated Id attributed elements, a customer can quickly navigate the page by simply clicking the desired link. The screenshot highlights the search engine opimitization link and displays the destination after the link is clicked. CSS values were consolidated into classes and variables were used so any last minute changes could be made to one line of code instead of scouring the entire style sheet and changing each value individually.
 
-![Alt text](../Challenge-1/assets/images/Instructions.jpg?raw=true "Instructions for Webpage")
+![Alt text](../Challenge-1/assets/images/Instructions.jpg "Instructions for Webpage")
 
 
 
